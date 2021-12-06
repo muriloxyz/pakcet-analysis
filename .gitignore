@@ -1,4 +1,4 @@
 .env
-*.csv
+datasets/original_dataset.csv
 .git
 .ipynb*
